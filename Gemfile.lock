@@ -28,7 +28,7 @@ GEM
       rack
     rack-test (0.6.3)
       rack (>= 1.0)
-    rake (10.4.2)
+    rake (12.3.3)
     redcarpet (3.2.2)
     sass (3.4.13)
     slop (3.6.0)
